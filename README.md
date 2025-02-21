@@ -55,10 +55,10 @@ Ensure all example scripts run without errors before proceeding.
 1. Find data files on the web for each type (CSV, Excel, JSON, and text).  
 2. Create your own Python script to fetch each type of data and save it in a folder named **data**.
 3. Name your scripts:
-   1. yourname_get_csv.py
-   2. yourname_get_excel.py
-   3. yourname_get_json.py
-   4. yourname_get_text.py
+   1. dhelm_get_csv.py
+   2. dhelm_get_excel.py
+   3. dhelm_get_json.py
+   4. dhelm_get_text.py
 4. Implement your data-processing logic in small steps:
    - Fetch data for one file type.
    - Test, verify, and Git add-commit-push.
@@ -67,10 +67,10 @@ Ensure all example scripts run without errors before proceeding.
 1. Determine a simple metric from each of your data files.  
 2. Create your own Python script to read the data, process it, and save it in a folder named **data_processed**.
 3. Name your scripts:
-   1. yourname_process_csv.py
-   2. yourname_process_excel.py
-   3. yourname_process_json.py
-   4. yourname_process_text.py
+   1. dhelm_process_csv.py
+   2. dhelm_process_excel.py
+   3. dhelm_process_json.py
+   4. dhelm_process_text.py
 4. Work incrementally, using git add-commit-push after each bit of progress. 
 
 ## Step 5. Update README.md to Describe Your Work
